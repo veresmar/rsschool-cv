@@ -73,19 +73,14 @@ header img{
 .about-text{
   max-width: 470px;
 }
-.about ul{
-  padding: 0;
-}
-.about-contacts{
-  max-width: 550px;
-}
-.about-contacts h4{
-  display: inline;
-  letter-spacing: normal;
-  margin-right: 20px;
-}
 
-
+.contact_info{
+  margin-bottom: 5.5px;
+}
+tr td:first-child{
+  font-weight: 600;
+  padding-right: 7px;
+}
 .skills{
   display: flex;
   justify-content: space-between;
